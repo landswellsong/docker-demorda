@@ -12,7 +12,7 @@ docker built -t landswellsong/xmrig_demorda .
 
 Якщо не збирали самі, скачає з DockerHub:
 ```
-docker run landswellsong/xmrig_demorda
+docker run -it landswellsong/xmrig_demorda
 ```
 Запуск у фоновому режимі:
 ```
